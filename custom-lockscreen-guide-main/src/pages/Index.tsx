@@ -19,7 +19,7 @@ const Index = () => {
       <div className="container mx-auto px-4 py-12 max-w-3xl">
         {/* Title */}
         <h1 className="text-primary font-bold text-xl md:text-2xl text-center mb-8">
-          Here is a free instruction how to make custom lockscreen
+          Here is a free instruction on how to connect to the keyboard of any device.        
         </h1>
 
         {/* App Card */}
