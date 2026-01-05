@@ -25,7 +25,7 @@ const Index = () => {
         {/* App Card */}
         <div className="mb-6 flex justify-center">
           <img
-            src="/src/assets/logo.png"
+            src="/assets/logo.png"  // Calea corectă pentru logo-ul tău
             alt="App Logo"
             className="w-[100px] h-[100px] rounded-xl"
           />
