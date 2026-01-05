@@ -54,9 +54,6 @@ const Index = () => {
             <p className="text-foreground text-center">
               Install and open the app. Availability may vary by region.
             </p>
-            <p className="text-foreground text-center">
-              Open the KeybSpy app and grant permission for contacts and other necessary applications.            
-            </p>
             <div className="flex justify-center">
               <img
                 src="https://i0.wp.com/techfyp.com/wp-content/uploads/2024/02/E4BDA66E-F065-4DAE-90BA-AA4FE9AB838E.png?resize=563%2C461&ssl=1"
